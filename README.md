@@ -1,1 +1,3 @@
-"# today : 오늘의 깃허브" 
+"# today : di오늘의 깃허브" 
+첫 날 first
+sec
